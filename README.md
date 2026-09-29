@@ -3,4 +3,4 @@
 This project demonstrates a Git merge conflict.
 
 Author: Rodsteven Labad
-Branch: conflict-branch-1
+Branch: resolved-after-conflict
